@@ -1,6 +1,6 @@
 # Guía de instalacion del driver USB
 
-* Descargue y extraiga el archivo [usb.zip](usb.zip?raw=true)
+* Descargue y extraiga el archivo [usb](usb.zip)
 * Conecte el indicador en modo DFU (Puenteando S1 y conectando el usb a la computadora)
 * Abra el administrador de dispositivos.
 ![Instalar Driver](imgs/1.png?raw=true)

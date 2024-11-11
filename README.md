@@ -4,7 +4,7 @@ Este documento proporciona una guía paso a paso para utilizar `dfu-programmer` 
 
 ## Prerrequisitos
 
-1. **Descargar dfu-programmer**: Descarga la herramienta `dfu-programmer`.
+1. **Descargar dfu-programmer**: Descarga la herramienta [dfu-programmer]( Programador.zip?raw=true)
 2. **Configurar los controladores USB**: Conecta el microcontrolador al puerto USB en modo DFU (Device Firmware Upgrade). Asegúrate de que el controlador USB esté correctamente instalado. Para instalar los drivers revise [este link](README_USB_DRIVER.md).
 3. **Firmware y espacio de usuario**: Asegúrate de tener los archivos `.hex` que deseas grabar en el indicador. Estos archivos deben estar ubicados en la carpeta.
 
